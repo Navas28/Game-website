@@ -1,7 +1,5 @@
 # Game Verse
 
-## Description
-
 A modern game-selling website offering PlayStation and Xbox games, as well as popular subscriptions like Netflix and Amazon.It provides a clean interface to explore and purchase a variety of console games and digital subscriptions.
 
 ---
