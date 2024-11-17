@@ -1,18 +1,14 @@
 # Game Verse
 
-A modern game-selling website offering PlayStation and Xbox games, as well as popular subscriptions like Netflix and Amazon.
-
 ---
 
 ## Description
 
-Game Verse is a responsive website built for gaming and entertainment enthusiasts. It provides a clean interface to explore and purchase a variety of console games and digital subscriptions.
+.A modern game-selling website offering PlayStation and Xbox games, as well as popular subscriptions like Netflix and Amazon.It provides a clean interface to explore and purchase a variety of console games and digital subscriptions.
 
 ---
 
 ## Screenshot
-
-![Game Verse Screenshots]  
 
 ![gameverse-home](https://github.com/user-attachments/assets/86230d3d-2aa3-4548-b874-55dcdf1a75d0)
 ![gameverse-ps](https://github.com/user-attachments/assets/95ca8163-6895-47b7-bd1c-cb7483850520)
@@ -23,7 +19,7 @@ Game Verse is a responsive website built for gaming and entertainment enthusiast
 ## Live Demo
 
 Experience Game Verse live:  
-[View Game Verse]([URL_TO_LIVE_PROJECT](https://navas28.github.io/Game-website/))  
+[View Live Project]([https://your-live-site-link.com](https://navas28.github.io/Game-website/))
 
 
 ---
