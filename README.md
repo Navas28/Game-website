@@ -19,7 +19,7 @@
 ## Live Demo
 
 Experience Game Verse live:  
-[View Live Project]([https://your-live-site-link.com](https://navas28.github.io/Game-website/))
+[View Live Project](https://navas28.github.io/Game-website/)
 
 
 ---
